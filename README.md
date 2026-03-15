@@ -10,13 +10,6 @@
 
 ---
 
-### 🚀 Tecnologias que eu uso
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cs"/>
-</p>
-
----
 
 ### 📊 Estatísticas do GitHub
 
@@ -25,7 +18,9 @@
 <td width="50%">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=henriqueponchi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cs"/>
+</p>
 </td>
 
 <td width="50%">
@@ -38,16 +33,8 @@
 
 ---
 
-### 🔥 Sequência de commits
-
-<img src="https://streak-stats.demolab.com?user=henriqueponchi&theme=tokyonight&hide_border=true"/>
-
----
 
 ### 🐍 Contribuições
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 
----
-
-⭐ Sempre aprendendo e criando novos projetos
