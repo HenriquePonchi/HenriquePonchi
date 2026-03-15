@@ -1,6 +1,4 @@
-<table>
-<tr>
-<td>
+
 
 <h1 align="center">Olá 👋, eu sou Henrique Ponchi</h1>
 
@@ -20,6 +18,4 @@
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 
-</td>
-</tr>
-</table>
+
