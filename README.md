@@ -1,4 +1,3 @@
-<h1 align="center">Olá 👋, eu sou Henrique Ponchi</h1>
 
 <p align="center">
 💻 Web Developer | Criando sistemas web
