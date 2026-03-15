@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:111827&height=200&section=header&text=Henrique%20Ponchi&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:111827&height=200&section=header&text=Luiz%20Henrique&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 💻 Web Developer focado em criação de sistemas web
 🚀 Sempre aprendendo novas tecnologias
