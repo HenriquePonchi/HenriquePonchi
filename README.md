@@ -16,20 +16,20 @@
 <tr>
 <td width="50%">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=henriqueponchi&show_icons=true&theme=tokyonight&hide_border=true"/>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cs"/>
-</p>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=henriqueponchi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 </td>
 
 <td width="50%">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueponchi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueponchi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>
 </table>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cs"/>
+</p>
 ---
 
 
